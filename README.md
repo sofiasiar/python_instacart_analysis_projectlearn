@@ -21,10 +21,9 @@ The dataset used in this analysis will be described in detail within the Jupyter
 
 *   ## Repository Structure
 
-.
-├── 01 Project Management/   # Project-related documents, meeting notes, etc.
-├── 02 Data/                # Contains the dataset(s) and data dictionaries
-├── 03 Scripts/             # Contains scripts for data processing, analysis, or visualization
-├── 04 Analysis/            # Contains analysis notebooks, reports, and results
-├── 05 Sent to client/      # Materials sent to the client (reports, presentations, etc.)
-├── README.md              # This file
+01 Project Management/   # Project-related documents, meeting notes, etc.
+02 Data/                # Contains the dataset(s) and data dictionaries Original and Prepared data
+03 Scripts/             # Contains scripts for data processing, analysis, or visualization
+4 Analysis/            # Contains analysis notebooks, reports, and results
+05 Sent to client/      # Materials sent to the client (reports, presentations, etc.)
+README.md              # This file
